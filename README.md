@@ -1,9 +1,9 @@
-# Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
+# Gatsby Simplio ⚡️ [![GitHub](https://img.shields.io/github/license/iprajeen/gatsby-simplio?color=blue)](https://github.com/iprajeen/gatsby-simplio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/iprajeen/gatsby-simplio) ![GitHub forks](https://img.shields.io/github/forks/iprajeen/gatsby-simplio)
 
 ## A clean, beautiful and responsive portfolio template for Developers
 
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Gatsby Simplefolio" width="600px" />
+  <img src="https://github.com/iprajeen/gatsby-simplio/blob/master/examples/example.gif" alt="Gatsby Simplio" width="600px" />
   <br>
 </h2>
 
@@ -18,8 +18,8 @@
 ⚡️ Easy site customization\
 ⚡️ Well organized documentation
 
-To view a demo example, **[click here](https://gatsby-simplefolio.netlify.com/)**\
-To view a live example, **[click here](https://cobidev.com/)**
+To view a demo example, **[click here](https://gatsby-simplio.netlify.com/)**\
+To view a live example, **[click here](https://iprajeen.now.sh/)**
 
 ---
 
@@ -53,10 +53,10 @@ From your command line, first clone Simplefolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/cobidev/gatsby-simplefolio
+$ git clone https://github.com/iprajeen/gatsby-simplio
 
 # Go into the repository
-$ cd gatsby-simplefolio
+$ cd gatsby-simplio
 
 # Remove current origin repository
 $ git remote remove origin
@@ -95,7 +95,7 @@ $ sudo npm install --unsafe-perm=true --allow-root
 Once your server has started, go to this url `http://localhost:8000/` and you will see the website running on a Development Server:
 
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.png" alt="Gatsby Simplefolio" width="100%">
+  <img src="https://github.com/iprajeen/gatsby-simplio/blob/master/examples/example.png" alt="Gatsby Simplio" width="100%">
 </h2>
 
 ---
@@ -222,8 +222,8 @@ Go to `src/styles/abstracts/_variables.scss` and only change the values on this 
 
 ```scss
 // Default values
-$main-color: #02aab0;
-$secondary-color: #00cdac;
+$main-color: #7f449d;
+$secondary-color: #793fc1;
 ```
 
 **_Note_**: I highly recommend to checkout gradients variations on [UI Gradient](https://uigradients.com/#BrightVault)
@@ -236,11 +236,6 @@ Once you have done with your setup. You need to put your website online!
 
 I highly recommend to use [Netlify](https://netlify.com) to achieve this on the EASIEST WAY
 
-## Others versions 👥
-
-[Simplefolio](https://github.com/cobidev/simplefolio) by [Jacobo Martinez](https://github.com/cobidev)\
-[Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
-
 ## Technologies used 🛠️
 
 - [Gatsby](https://www.gatsbyjs.org/) - Static Site Generator
@@ -249,13 +244,9 @@ I highly recommend to use [Netlify](https://netlify.com) to achieve this on the 
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Front-End UI library
 - [Sass](https://sass-lang.com/documentation) - CSS extension language
 
-## Authors
-
-- **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
-
 ## Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2365af6f-820a-4fb8-83e6-69a66f686dfe/deploy-status)](https://app.netlify.com/sites/gatsby-simplefolio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2365af6f-820a-4fb8-83e6-69a66f686dfe/deploy-status)](https://app.netlify.com/sites/gatsby-simplio/deploys)
 
 ## License 📄
 
